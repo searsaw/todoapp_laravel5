@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: TodoApp
+        psr4_prefix: TodoApp
+        src_path: app
